@@ -1,0 +1,13 @@
+D:\1 Cursos\Vs2019Projects\OOP-Project\OOP-Project\obj\Debug\netcoreapp3.1\OOP-Project.csproj.AssemblyReference.cache
+D:\1 Cursos\Vs2019Projects\OOP-Project\OOP-Project\obj\Debug\netcoreapp3.1\OOP-Project.AssemblyInfoInputs.cache
+D:\1 Cursos\Vs2019Projects\OOP-Project\OOP-Project\obj\Debug\netcoreapp3.1\OOP-Project.AssemblyInfo.cs
+D:\1 Cursos\Vs2019Projects\OOP-Project\OOP-Project\obj\Debug\netcoreapp3.1\OOP-Project.csproj.CoreCompileInputs.cache
+D:\1 Cursos\Vs2019Projects\OOP-Project\OOP-Project\bin\Debug\netcoreapp3.1\OOP-Project.exe
+D:\1 Cursos\Vs2019Projects\OOP-Project\OOP-Project\bin\Debug\netcoreapp3.1\OOP-Project.deps.json
+D:\1 Cursos\Vs2019Projects\OOP-Project\OOP-Project\bin\Debug\netcoreapp3.1\OOP-Project.runtimeconfig.json
+D:\1 Cursos\Vs2019Projects\OOP-Project\OOP-Project\bin\Debug\netcoreapp3.1\OOP-Project.runtimeconfig.dev.json
+D:\1 Cursos\Vs2019Projects\OOP-Project\OOP-Project\bin\Debug\netcoreapp3.1\OOP-Project.dll
+D:\1 Cursos\Vs2019Projects\OOP-Project\OOP-Project\bin\Debug\netcoreapp3.1\OOP-Project.pdb
+D:\1 Cursos\Vs2019Projects\OOP-Project\OOP-Project\obj\Debug\netcoreapp3.1\OOP-Project.dll
+D:\1 Cursos\Vs2019Projects\OOP-Project\OOP-Project\obj\Debug\netcoreapp3.1\OOP-Project.pdb
+D:\1 Cursos\Vs2019Projects\OOP-Project\OOP-Project\obj\Debug\netcoreapp3.1\OOP-Project.genruntimeconfig.cache
