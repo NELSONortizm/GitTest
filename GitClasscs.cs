@@ -9,6 +9,7 @@ namespace OOP_Project
         static void Main(string[] args)
         {
             Console.WriteLine("Git");
+            Console.WriteLine("Git 2 ");
         }
     }//
 }
